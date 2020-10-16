@@ -293,6 +293,7 @@ Name    |    Description
 [OWASP Mutillidae II](https://sourceforge.net/projects/mutillidae/files/) | another OWASP vulnerable app, lots of documentation.
 [OWASP Juice Shop](https://github.com/bkimminich/juice-shop) | covers the OWASP top 10 vulns
 [WebGoat: A deliberately insecure Web Application](https://github.com/WebGoat/WebGoat) | maintained by OWASP and designed to to teach web app security
+[0l4bs](https://github.com/tegal1337/0l4bs) | Cross-site scripting labs for web application security enthusiasts  
 
 ### Vulnerable OS
 Name    |    Description
