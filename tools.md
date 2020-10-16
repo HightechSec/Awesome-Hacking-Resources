@@ -30,7 +30,7 @@ Name | Description
 [SubFinder](https://github.com/subfinder/subfinder) | Subdomain discovery tool for use on web application engagements. SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
 [VHostScan](https://github.com/codingo/VHostScan) | A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
 [PhpSploit](https://github.com/nil0x42/phpsploit) | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner, with a complete asrenal of post-exploitation & privesc features.
-
+[Git-Scanner](https://github.com/HightechSec/git-scanner) | A tool for bug hunting or pentesting for targeting websites that have open `.git` repositories available in public
 
 
 ### Exploitation tools
