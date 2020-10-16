@@ -284,6 +284,7 @@ Name    |    Description
 ### Vulnerable Web Application
 Name    |    Description
 ----    |    ----
+[0l4bs](https://github.com/tegal1337/0l4bs) | Cross-site scripting labs for web application security enthusiasts
 [bWAPP](http://www.itsecgames.com/) | common buggy web app for hacking, great for beginners, lots of documentation
 [Damn Small Vulnerable Web](https://github.com/stamparm/DSVW) | written in less than 100 lines of code, this web app has tons of vulns, great for teaching
 [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/) | PHP/MySQL web app for testing skills and tools
@@ -293,7 +294,7 @@ Name    |    Description
 [OWASP Mutillidae II](https://sourceforge.net/projects/mutillidae/files/) | another OWASP vulnerable app, lots of documentation.
 [OWASP Juice Shop](https://github.com/bkimminich/juice-shop) | covers the OWASP top 10 vulns
 [WebGoat: A deliberately insecure Web Application](https://github.com/WebGoat/WebGoat) | maintained by OWASP and designed to to teach web app security
-[0l4bs](https://github.com/tegal1337/0l4bs) | Cross-site scripting labs for web application security enthusiasts  
+  
 
 ### Vulnerable OS
 Name    |    Description
