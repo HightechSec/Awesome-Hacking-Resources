@@ -43,3 +43,4 @@ This resource was made by the developers and hackers alike! We appreciate and re
  * [Alec Nunn](https://github.com/alecnunn)
  * [Josh Ortiz](https://github.com/dukeofdisaster)
  * [Kay Kay](https://github.com/mwebber3)
+ * [HightechSec](https://github.com/HightechSec)
