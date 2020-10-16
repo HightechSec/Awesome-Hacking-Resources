@@ -24,13 +24,13 @@ Repository | Description
 ### Awesome custom projects / Scripts
 Name | Description
 ---- | ----
-[mimikatz](https://github.com/gentilkiwi/mimikatz) | A useful tool to play with Windows security including extracting plaintext passwords, kerberos tickets, etc.
+[Git-Scanner](https://github.com/HightechSec/git-scanner) | A tool for bug hunting or pentesting for targeting websites that have open `.git` repositories available in public
 [LAZY script v2.1.3](https://github.com/arismelachroinos/lscript) |  The LAZY script will make your life easier, and of course faster.
-[XSStrike](https://github.com/UltimateHackers/XSStrike)  | XSStrike is a program which can fuzz and bruteforce parameters for XSS. It can also detect and bypass WAFs.
+[mimikatz](https://github.com/gentilkiwi/mimikatz) | A useful tool to play with Windows security including extracting plaintext passwords, kerberos tickets, etc.
+[PhpSploit](https://github.com/nil0x42/phpsploit) | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner, with a complete asrenal of post-exploitation & privesc features.
 [SubFinder](https://github.com/subfinder/subfinder) | Subdomain discovery tool for use on web application engagements. SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
 [VHostScan](https://github.com/codingo/VHostScan) | A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
-[PhpSploit](https://github.com/nil0x42/phpsploit) | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner, with a complete asrenal of post-exploitation & privesc features.
-[Git-Scanner](https://github.com/HightechSec/git-scanner) | A tool for bug hunting or pentesting for targeting websites that have open `.git` repositories available in public
+[XSStrike](https://github.com/UltimateHackers/XSStrike)  | XSStrike is a program which can fuzz and bruteforce parameters for XSS. It can also detect and bypass WAFs.
 
 
 ### Exploitation tools
